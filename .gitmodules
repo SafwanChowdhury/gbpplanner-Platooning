@@ -1,0 +1,12 @@
+[submodule "packages/gbpplanner-DACS"]
+	path = packages/gbpplanner-DACS
+	url = https://github.com/SafwanChowdhury/gbpplanner-DACS.git
+	branch = dev
+[submodule "packages/gbpplanner-ETS2LA"]
+	path = packages/gbpplanner-ETS2LA
+	url = https://github.com/SafwanChowdhury/gbpplanner-DACS.git
+	branch = ETS2-DACS
+[submodule "packages/ETS2LA-DACS"]
+	path = packages/ETS2LA-DACS
+	url = https://github.com/SafwanChowdhury/Euro-Truck-Simulator-2-Lane-Assist.git
+	branch = main
